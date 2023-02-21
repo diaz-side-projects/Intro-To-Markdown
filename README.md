@@ -54,24 +54,24 @@ __NOTE: Adding a balloon tip description to our links__
 <!--  Unordered Lists -->
 
 Unordered Lists
-* Pizza
-* Chicken
-  * Tapsilog
-  * Hotdog
+* Lasagna
+* Liempo
+  * Samgyup
+  * Smoked Ribs
 
 <!--  Ordered Lists -->
 
 Ordered List
-1. BIKE: Mountain Bike
-2. INTERIOR: EXTERIOR
-3. SHOES: SHADES
+1. Dwarf Fortress
+2. Stardew Valley
+3. Vampire Survivors
 
-    3.1. BUY THE BIKE !!!
-    4.2. Let's RIDE
+    3.1. FINISH THE GAMES !!!
+    4.2. Let's Play
     
 ---
 <!-- ADD IMAGE -->
-![MY BIKE](https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg?auto=compress&cs=tinysrgb&w=600)
+![MY BIKE](https://images.pexels.com/photos/3829227/pexels-photo-3829227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ---
 
