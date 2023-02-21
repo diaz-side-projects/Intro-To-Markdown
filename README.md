@@ -107,12 +107,12 @@ def testAdd(num1, num2):
 <!-- Table Rules -->
 |  Name  | Nickname|  Age  |
 |--------|---------|-------|
-| Charles| charlie |   20  |
-| Adrian | adriyan |   21  |
+| Chewbacca| Chewie |   5  |
+| Orea | Aria |   8  |
 
 ---
 
 <!-- Task Lists -->
-* [x] Ride a bike
-* [ ] Play Chess
-* [x] Learn to code
+* [x] Finished The Game
+* [ ] 100% Achievements
+* [x] Learn to Design
