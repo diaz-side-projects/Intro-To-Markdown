@@ -23,7 +23,7 @@ __YOU STRONG__
 
 ---
 <!--  Strike through  -->
-~~I was chess player before~~ but then I want to cyclist to travel anywhere.
+~~I was baby before~~ but then I became a boy.
 
 ---
 
